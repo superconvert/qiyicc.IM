@@ -42,11 +42,19 @@
 客户端部分主要包括 PC 端客户端，手机端客户端以及 WEB 客户端。
 
 界面预览
+
 主界面
+
 ![image](https://github.com/superconvert/qiyiccIM/blob/master/main.png)
+
 对聊
+
 ![image](https://github.com/superconvert/qiyiccIM/blob/master/peer.png)
+
 群聊
+
 ![image](https://github.com/superconvert/qiyiccIM/blob/master/cluster.png)
+
 企业架构
+
 ![image](https://github.com/superconvert/qiyiccIM/blob/master/enterprise.png)
