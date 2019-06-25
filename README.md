@@ -45,9 +45,7 @@
 
 主界面
 
-![image](https://github.com/superconvert/qiyiccIM/blob/master/main.png)
-![image](https://github.com/superconvert/qiyiccIM/blob/master/main1.png)
-![image](https://github.com/superconvert/qiyiccIM/blob/master/main2.png)
+![image](https://github.com/superconvert/qiyiccIM/blob/master/main.png)![image](https://github.com/superconvert/qiyiccIM/blob/master/main1.png)![image](https://github.com/superconvert/qiyiccIM/blob/master/main2.png)
 
 对聊
 
