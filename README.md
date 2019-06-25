@@ -57,7 +57,7 @@
 
 ![image](https://github.com/superconvert/qiyiccIM/blob/master/cluster.png)
 
-企业架构 & 媒体平台
+娱乐影音 & 企业架构
 
 ![image](https://github.com/superconvert/qiyiccIM/blob/master/media.png)
 ![image](https://github.com/superconvert/qiyiccIM/blob/master/enterprise.png)
