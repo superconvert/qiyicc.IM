@@ -4,6 +4,7 @@
 后续会考虑把安卓端以及 iOS 端开源出来，欢迎大家关注！
 
 序言
+
 期翼嘻嘻是一款免费软件，除版权不能修改外，其余都可以任意修改包括服务器端以及管理客户端。我们虽然历史很悠久（ 15 年），但毕竟还是小规模，我们的发展离不开大家的支持，您的一个宣传，一个推广，一份帮助嘻嘻初学者的热心，一点小小的贡献，都是对我们最大的支持。有了你们的支持，我们才能发展的更好，才能给大家提供更好的软件。因为我们是同一个战线上的兄弟。
 期翼嘻嘻可以提供一个可供您自己运营的平台，可以不受别人约束，防止公司的机密泄露，嘻嘻服务器是发布出去的，安全性你们可以自己评测，所以不存在机密泄露的可能，可以独立使用，可以二次开发结合你们现在的系统使用，期翼嘻嘻前后台提供强大的各种类型的接口，满足各方面的需求。具体可以参考官方网站的功能说明。
 
@@ -39,3 +40,13 @@
 管理客户端，主要是负责业务数据的管理与配置，用户信息，系统消息，系统公告，企业架构，群管理，媒体室管理等功能。主要操作人员：平台系统的管理员 
 
 客户端部分主要包括 PC 端客户端，手机端客户端以及 WEB 客户端。
+
+界面预览
+主界面
+![image](https://github.com/superconvert/qiyiccIM/blob/master/main.png)
+对聊
+![image](https://github.com/superconvert/qiyiccIM/blob/master/peer.png)
+群聊
+![image](https://github.com/superconvert/qiyiccIM/blob/master/cluster.png)
+企业架构
+![image](https://github.com/superconvert/qiyiccIM/blob/master/enterprise.png)
