@@ -20,23 +20,23 @@
 
 官方一号群（39392348）
 
-![image](https://github.com/superconvert/qiyiccIM/blob/master/qq1.png)
+![image](https://github.com/superconvert/qiyiccIM/blob/master/qq1.jpg)
 
 官方二号群（72785592）
 
-![image](https://github.com/superconvert/qiyiccIM/blob/master/qq2.png)
+![image](https://github.com/superconvert/qiyiccIM/blob/master/qq2.jpg)
 
 官方三号群（125756608）
 
-![image](https://github.com/superconvert/qiyiccIM/blob/master/qq3.png)
+![image](https://github.com/superconvert/qiyiccIM/blob/master/qq3.jpg)
 
 官方四号群（140967111）
 
-![image](https://github.com/superconvert/qiyiccIM/blob/master/qq4.png)
+![image](https://github.com/superconvert/qiyiccIM/blob/master/qq4.jpg)
 
 官方五号群（69264607）
 
-![image](https://github.com/superconvert/qiyiccIM/blob/master/qq5.png)
+![image](https://github.com/superconvert/qiyiccIM/blob/master/qq5.jpg)
 
 枯泽而渔，是很短视的做法，永远做不大，害人害己。期翼嘻嘻与更多的朋友一起，让我们一起反垄断，还创新一片生存的空间。
 
