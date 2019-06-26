@@ -12,6 +12,8 @@
 
 软件下载地址：http://www.qiyicc.com/download/Software.rar
 
+安卓端演示下载: http://www.qiyicc.com/download/FcmAndroid.apk
+
 联系方式: QQ 99766553 (微信同)
 
 电子邮箱：qiyicc@sina.com
