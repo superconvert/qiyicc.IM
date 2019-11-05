@@ -22,23 +22,23 @@
 
 官方一号群（39392348）
 
-![image](https://github.com/superconvert/qiyiccIM/blob/master/qq1.jpg)
+![image](https://github.com/superconvert/qiyicc.IM/blob/master/qq1.jpg)
 
 官方二号群（72785592）
 
-![image](https://github.com/superconvert/qiyiccIM/blob/master/qq2.jpg)
+![image](https://github.com/superconvert/qiyicc.IM/blob/master/qq2.jpg)
 
 官方三号群（125756608）
 
-![image](https://github.com/superconvert/qiyiccIM/blob/master/qq3.jpg)
+![image](https://github.com/superconvert/qiyicc.IM/blob/master/qq3.jpg)
 
 官方四号群（140967111）
 
-![image](https://github.com/superconvert/qiyiccIM/blob/master/qq4.jpg)
+![image](https://github.com/superconvert/qiyicc.IM/blob/master/qq4.jpg)
 
 官方五号群（69264607）
 
-![image](https://github.com/superconvert/qiyiccIM/blob/master/qq5.jpg)
+![image](https://github.com/superconvert/qiyicc.IM/blob/master/qq5.jpg)
 
 
 枯泽而渔，是很短视的做法，永远做不大，害人害己。期翼嘻嘻与更多的朋友一起，让我们一起反垄断，还创新一片生存的空间。
@@ -75,16 +75,16 @@
 
 主界面
 
-![image](https://github.com/superconvert/qiyiccIM/blob/master/main.png)![image](https://github.com/superconvert/qiyiccIM/blob/master/main1.png)![image](https://github.com/superconvert/qiyiccIM/blob/master/main2.png)
+![image](https://github.com/superconvert/qiyicc.IM/blob/master/main.png)![image](https://github.com/superconvert/qiyiccIM/blob/master/main1.png)![image](https://github.com/superconvert/qiyiccIM/blob/master/main2.png)
 
 对聊
 
-![image](https://github.com/superconvert/qiyiccIM/blob/master/peer.png)
+![image](https://github.com/superconvert/qiyicc.IM/blob/master/peer.png)
 
 群聊
 
-![image](https://github.com/superconvert/qiyiccIM/blob/master/cluster.png)
+![image](https://github.com/superconvert/qiyicc.IM/blob/master/cluster.png)
 
 娱乐影音 & 企业架构
 
-![image](https://github.com/superconvert/qiyiccIM/blob/master/media.png) ![image](https://github.com/superconvert/qiyiccIM/blob/master/enterprise.png)
+![image](https://github.com/superconvert/qiyicc.IM/blob/master/media.png) ![image](https://github.com/superconvert/qiyiccIM/blob/master/enterprise.png)
